@@ -27,8 +27,14 @@ Make sure you have Python installed on your system. You can download it from [py
 
 ## Usage
 
-python cleaner.py input.csv output.csv
+``` bash
+    python cleaner.py input.csv output.csv
+```
 
-Example:
+### Example
 
-python cleaner.py sample.csv cleaned_sample.csv
+``` bash
+    python cleaner.py sample.csv cleaned_sample.csv
+```
+
+This will read `sample.csv`, clean the data, and save the cleaned version as `cleaned_sample.csv`.
