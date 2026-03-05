@@ -1,8 +1,0 @@
-name,age,city
-John,25,Paris
-Alice,30,unknown
-Bob,unknown,London
-name,age,city
-John,25.0,Paris
-Alice,30.0,unknown
-Bob,unknown,London
