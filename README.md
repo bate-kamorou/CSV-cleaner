@@ -11,7 +11,12 @@ A simple Python command-line tool to clean CSV files.
 
 ## Installation
 
-pip install pandas
+Make sure you have Python installed and a virtual environment created with python -m venv venv.
+Then, install the required dependencies:
+
+``` bash
+    pip install pandas
+```
 
 ## Usage
 
